@@ -116,6 +116,44 @@
   {
     "category": "Songs",
     "resultType": "song",
+    "title": "Closer (R3hab Remix) (feat. Halsey)",
+    "album": {
+      "name": "Closer (Remixes)",
+      "id": "MPREb_HMg1kJvHSk0"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "zy3-ZFIHqAw",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:42",
+    "year": null,
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "id": "UCQgUHOPJJrmzCjExg-ISupA"
+      }
+    ],
+    "duration_seconds": 162,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/mIgIU1j1TkgXigN3GRQxil2Q7hYrZG5mxhaJ87OxMRtc8iw2U5V2Po37TCKiTLVKdtCDV8-Iatt8nUw2fw=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/mIgIU1j1TkgXigN3GRQxil2Q7hYrZG5mxhaJ87OxMRtc8iw2U5V2Po37TCKiTLVKdtCDV8-Iatt8nUw2fw=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
     "title": "Something Just Like This",
     "album": {
       "name": "Something Just Like This",
@@ -158,19 +196,19 @@
   {
     "category": "Songs",
     "resultType": "song",
-    "title": "Closer (R3hab Remix) (feat. Halsey)",
+    "title": "Closer (T-Mass Remix) (feat. Halsey)",
     "album": {
       "name": "Closer (Remixes)",
-      "id": "MPREb_HMg1kJvHSk0"
+      "id": "MPREb_99Q10Rx38Tq"
     },
     "inLibrary": false,
     "feedbackTokens": {
       "add": null,
       "remove": null
     },
-    "videoId": "zy3-ZFIHqAw",
+    "videoId": "ZYGN1ukQN4k",
     "videoType": "MUSIC_VIDEO_TYPE_ATV",
-    "duration": "2:42",
+    "duration": "4:08",
     "year": null,
     "artists": [
       {
@@ -178,16 +216,16 @@
         "id": "UCQgUHOPJJrmzCjExg-ISupA"
       }
     ],
-    "duration_seconds": 162,
+    "duration_seconds": 248,
     "isExplicit": false,
     "thumbnails": [
       {
-        "url": "https://lh3.googleusercontent.com/mIgIU1j1TkgXigN3GRQxil2Q7hYrZG5mxhaJ87OxMRtc8iw2U5V2Po37TCKiTLVKdtCDV8-Iatt8nUw2fw=w60-h60-l90-rj",
+        "url": "https://lh3.googleusercontent.com/0XrkT1HY33sRP49r5-a9L7Sn9NkCeFbF8hD-aEjonvfZGMfoWywL7NcWlh1A-YEtm-6flLfmb1zsdCPh=w60-h60-l90-rj",
         "width": 60,
         "height": 60
       },
       {
-        "url": "https://lh3.googleusercontent.com/mIgIU1j1TkgXigN3GRQxil2Q7hYrZG5mxhaJ87OxMRtc8iw2U5V2Po37TCKiTLVKdtCDV8-Iatt8nUw2fw=w120-h120-l90-rj",
+        "url": "https://lh3.googleusercontent.com/0XrkT1HY33sRP49r5-a9L7Sn9NkCeFbF8hD-aEjonvfZGMfoWywL7NcWlh1A-YEtm-6flLfmb1zsdCPh=w120-h120-l90-rj",
         "width": 120,
         "height": 120
       }
@@ -226,44 +264,6 @@
       },
       {
         "url": "https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY=w120-h120-l90-rj",
-        "width": 120,
-        "height": 120
-      }
-    ]
-  },
-  {
-    "category": "Songs",
-    "resultType": "song",
-    "title": "Closer (T-Mass Remix) (feat. Halsey)",
-    "album": {
-      "name": "Closer (Remixes)",
-      "id": "MPREb_99Q10Rx38Tq"
-    },
-    "inLibrary": false,
-    "feedbackTokens": {
-      "add": null,
-      "remove": null
-    },
-    "videoId": "ZYGN1ukQN4k",
-    "videoType": "MUSIC_VIDEO_TYPE_ATV",
-    "duration": "4:08",
-    "year": null,
-    "artists": [
-      {
-        "name": "The Chainsmokers",
-        "id": "UCQgUHOPJJrmzCjExg-ISupA"
-      }
-    ],
-    "duration_seconds": 248,
-    "isExplicit": false,
-    "thumbnails": [
-      {
-        "url": "https://lh3.googleusercontent.com/0XrkT1HY33sRP49r5-a9L7Sn9NkCeFbF8hD-aEjonvfZGMfoWywL7NcWlh1A-YEtm-6flLfmb1zsdCPh=w60-h60-l90-rj",
-        "width": 60,
-        "height": 60
-      },
-      {
-        "url": "https://lh3.googleusercontent.com/0XrkT1HY33sRP49r5-a9L7Sn9NkCeFbF8hD-aEjonvfZGMfoWywL7NcWlh1A-YEtm-6flLfmb1zsdCPh=w120-h120-l90-rj",
         "width": 120,
         "height": 120
       }
@@ -348,6 +348,44 @@
   {
     "category": "Songs",
     "resultType": "song",
+    "title": "Paris",
+    "album": {
+      "name": "Paris",
+      "id": "MPREb_NxcDCDUAHoi"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "h8WO38JpwbE",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:42",
+    "year": null,
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "id": "UCQgUHOPJJrmzCjExg-ISupA"
+      }
+    ],
+    "duration_seconds": 222,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/tQR27bcqKLyri7KMSPoNeLp8IHWLePT5OgdJXN7sl6o3HnqmCz_GRE-wWsXt3kxRAzI0Zwn5jHXyFt8=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/tQR27bcqKLyri7KMSPoNeLp8IHWLePT5OgdJXN7sl6o3HnqmCz_GRE-wWsXt3kxRAzI0Zwn5jHXyFt8=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
     "title": "Roses (feat. ROZES)",
     "album": {
       "name": "Bouquet",
@@ -416,44 +454,6 @@
       },
       {
         "url": "https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY=w120-h120-l90-rj",
-        "width": 120,
-        "height": 120
-      }
-    ]
-  },
-  {
-    "category": "Songs",
-    "resultType": "song",
-    "title": "Paris",
-    "album": {
-      "name": "Paris",
-      "id": "MPREb_NxcDCDUAHoi"
-    },
-    "inLibrary": false,
-    "feedbackTokens": {
-      "add": null,
-      "remove": null
-    },
-    "videoId": "h8WO38JpwbE",
-    "videoType": "MUSIC_VIDEO_TYPE_ATV",
-    "duration": "3:42",
-    "year": null,
-    "artists": [
-      {
-        "name": "The Chainsmokers",
-        "id": "UCQgUHOPJJrmzCjExg-ISupA"
-      }
-    ],
-    "duration_seconds": 222,
-    "isExplicit": false,
-    "thumbnails": [
-      {
-        "url": "https://lh3.googleusercontent.com/tQR27bcqKLyri7KMSPoNeLp8IHWLePT5OgdJXN7sl6o3HnqmCz_GRE-wWsXt3kxRAzI0Zwn5jHXyFt8=w60-h60-l90-rj",
-        "width": 60,
-        "height": 60
-      },
-      {
-        "url": "https://lh3.googleusercontent.com/tQR27bcqKLyri7KMSPoNeLp8IHWLePT5OgdJXN7sl6o3HnqmCz_GRE-wWsXt3kxRAzI0Zwn5jHXyFt8=w120-h120-l90-rj",
         "width": 120,
         "height": 120
       }
@@ -656,82 +656,6 @@
   {
     "category": "Songs",
     "resultType": "song",
-    "title": "Inside Out (feat. Charlee)",
-    "album": {
-      "name": "Collage",
-      "id": "MPREb_4jnVJ5IIw9h"
-    },
-    "inLibrary": false,
-    "feedbackTokens": {
-      "add": null,
-      "remove": null
-    },
-    "videoId": "DDPHd9stUrU",
-    "videoType": "MUSIC_VIDEO_TYPE_ATV",
-    "duration": "3:54",
-    "year": null,
-    "artists": [
-      {
-        "name": "The Chainsmokers",
-        "id": "UCQgUHOPJJrmzCjExg-ISupA"
-      }
-    ],
-    "duration_seconds": 234,
-    "isExplicit": false,
-    "thumbnails": [
-      {
-        "url": "https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY=w60-h60-l90-rj",
-        "width": 60,
-        "height": 60
-      },
-      {
-        "url": "https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY=w120-h120-l90-rj",
-        "width": 120,
-        "height": 120
-      }
-    ]
-  },
-  {
-    "category": "Songs",
-    "resultType": "song",
-    "title": "Kanye (feat. SirenXX)",
-    "album": {
-      "name": "Kanye",
-      "id": "MPREb_y7jsSlf1McU"
-    },
-    "inLibrary": false,
-    "feedbackTokens": {
-      "add": null,
-      "remove": null
-    },
-    "videoId": "yzXfmUHuKYU",
-    "videoType": "MUSIC_VIDEO_TYPE_ATV",
-    "duration": "3:50",
-    "year": null,
-    "artists": [
-      {
-        "name": "The Chainsmokers",
-        "id": "UCQgUHOPJJrmzCjExg-ISupA"
-      }
-    ],
-    "duration_seconds": 230,
-    "isExplicit": false,
-    "thumbnails": [
-      {
-        "url": "https://lh3.googleusercontent.com/Gom9HOeH0IqtI0xf1OMjp99RUkVhesVCQRQ3kaiT_GnbCBgcEWqPDhYzz1rcouDay6tgC_1mCTtD5KiZ=w60-h60-l90-rj",
-        "width": 60,
-        "height": 60
-      },
-      {
-        "url": "https://lh3.googleusercontent.com/Gom9HOeH0IqtI0xf1OMjp99RUkVhesVCQRQ3kaiT_GnbCBgcEWqPDhYzz1rcouDay6tgC_1mCTtD5KiZ=w120-h120-l90-rj",
-        "width": 120,
-        "height": 120
-      }
-    ]
-  },
-  {
-    "category": "Songs",
-    "resultType": "song",
     "title": "Sick Boy",
     "album": {
       "name": "Sick Boy",
@@ -762,6 +686,82 @@
       },
       {
         "url": "https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Closer x Kabira",
+    "album": {
+      "name": "Closer x Kabira",
+      "id": "MPREb_QeDH7DOzcpv"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "KzhNseO6_HI",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:25",
+    "year": null,
+    "artists": [
+      {
+        "name": "Vidya Vox",
+        "id": "UCyBmE91nZtunwXLVfbVse3A"
+      }
+    ],
+    "duration_seconds": 205,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/HCSv-fpkD5m5nExHsRao3AnhvY6QxjIAPkOBI6LWZ9oX-1EPLHo0T_MV7kx9h2M5NX-2QqyYt8IYZrR9=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HCSv-fpkD5m5nExHsRao3AnhvY6QxjIAPkOBI6LWZ9oX-1EPLHo0T_MV7kx9h2M5NX-2QqyYt8IYZrR9=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Inside Out (feat. Charlee)",
+    "album": {
+      "name": "Collage",
+      "id": "MPREb_4jnVJ5IIw9h"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "DDPHd9stUrU",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:54",
+    "year": null,
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "id": "UCQgUHOPJJrmzCjExg-ISupA"
+      }
+    ],
+    "duration_seconds": 234,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY=w120-h120-l90-rj",
         "width": 120,
         "height": 120
       }
